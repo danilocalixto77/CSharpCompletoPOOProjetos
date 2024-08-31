@@ -17,24 +17,6 @@ Professor: Nélio Alves - **Udemy**
 
 ### 5. Manipulando Objetos Complexos com funções
 
-...
-
-
-### 6. Manipulando e obtendo objetos da coleção com outros comandos	
-
-    First
-    FirstOrDefault
-    Last
-    LastOrDefault
-    Any()
-    AddRange()
-    Intersect()
-    Except()
-    Range()
-    Repeat()
-
-### 7. Agrupamento e Agregações
-
 
 ### Atalhos:
 
