@@ -3,9 +3,11 @@ Professor: Nélio Alves - **Udemy**
 
 ## Seção 1: ......
 
-### 1......
+### 1 Visão geral do curso
 
-    O LINQ possibilita filtrar de maneira simples, dentro da própria experessão utilizando de uma sintaxe muito próxima do SQL e utilizando expressões Lambdas para simplificar. Devolvendo uma melhor performance em estruturas diversas.
+    ...
+
+
 
 ### 2.Grupo de Estudo
 
